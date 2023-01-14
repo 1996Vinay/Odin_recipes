@@ -1,0 +1,1 @@
+This Project("The Odin Recipes") is the assignment from the Odin Projects on covered HTML topics.
